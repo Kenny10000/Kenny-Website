@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.About-image{
+   width: 500px;
+}
+.head{
+    font-weight: bolder;
+    font-family: Arial;
+    font-size: 30px;
+}
+.head2{
+    font-family: Arial;
+    font-weight: bold;
+}
+.intro{
+    font-family: Arial;
+}
+.contant{
+ font-size: bolder;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: Arial;
+}
