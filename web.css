@@ -3,6 +3,9 @@
     padding: 0;
     overflow-x: hidden;
 }
+.space{
+    padding: 10px;
+}
 .About-image{
    width: 500px;
 }
@@ -31,4 +34,5 @@
 .size2{
  height: 40px;
 }
+
 
