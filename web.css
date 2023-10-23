@@ -9,9 +9,9 @@
 .About-image{
    width: 500px;
 }
-.head{
+.head1{
     font-weight: bolder;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
     font-size: 25px;
 }
 .head2{
