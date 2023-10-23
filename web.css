@@ -9,16 +9,14 @@
 .About-image{
    width: 500px;
 }
-.head{
+.head1{ 
+    padding-top: 30px;
     font-weight: bolder;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
 }
-.head2{
-    font-family: Arial;
-    font-weight: bold;
-}
 .intro{
+    
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
    
 }
