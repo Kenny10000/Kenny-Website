@@ -10,10 +10,11 @@
    width: 500px;
 }
 .head1{ 
-    padding-top: 30px;
+ 
     font-weight: bolder;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 25px;
+    padding: auto;
 }
 .intro{
     
@@ -25,7 +26,7 @@
     
 }
 .contant{
- font-size: bolder;
+font-size: bolder;
     font-size: 20px;
     font-family: Arial;
     margin-bottom: 50px;
@@ -37,5 +38,33 @@
 .size2{
  height: 40px;
 }
+.head{
+    font-family: Arial;
+    font-weight: bolder;
+}
+.Images{
+    width: 100px;
+   border-radius: 300px;
+}
+.headcon{
+    font-family: Arial;
+    color: black;
+    
+}
+.headcon2{
+    font-family: Arial;
+    font-size: 15px;
+    color: black;
+}
+.buttons{
+   background-color: #af270b;
+   border-radius: 20px;
+   color: white;
+   padding: 10px;
+
+}
+
+
+
 
 
