@@ -48,13 +48,12 @@ font-size: bolder;
 }
 .headcon{
     font-family: Arial;
-    color: black;
-    
+
 }
 .headcon2{
     font-family: Arial;
     font-size: 15px;
-    color: black;
+
 }
 .buttons{
    background-color: #af270b;
@@ -67,6 +66,11 @@ font-size: bolder;
 }
 .height{
     height: 265px;
+}
+.divblue{
+    background-color: blue;
+    color: white;
+   
 }
 
 
