@@ -68,10 +68,8 @@ font-size: bolder;
 .height{
     height: 265px;
 }
-.divblue{
-    background-color: #0d1868;
-    color: white;
-   
+.hover:hover{
+    text-decoration: black;
 }
 
 
