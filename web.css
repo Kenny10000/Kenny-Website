@@ -71,6 +71,9 @@ font-size: bolder;
 .hover:hover{
     text-decoration: black;
 }
+.sideindi:hover{
+    background-color: #838b8f;
+    }
 
 
 
